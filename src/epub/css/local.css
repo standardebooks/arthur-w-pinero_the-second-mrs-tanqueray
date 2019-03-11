@@ -53,16 +53,8 @@
 	border-collapse: collapse;
 }
 
-[epub|type~="z3998:scene"] h3{
-	margin: 2em 0 0 0;
-}
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
-}
-
-[epub|type~="z3998:stage-direction"] i{
-	font-style: normal;
 }
 
 [epub|type~="z3998:stage-direction"]::before{
