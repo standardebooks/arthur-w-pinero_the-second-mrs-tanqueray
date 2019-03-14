@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-w-pinero/the-second-mrs-tanqueray</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-03-14T15:41:55Z</dc:date>
+		<meta property="dcterms:modified">2019-03-14T15:41:55Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,15 +50,15 @@
 		<dc:description id="description">A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt; Arthur Pinero wrote &lt;i&gt;The Second Mrs. Tanqueray&lt;/i&gt; in 1893 after penning several successful farces. Playing on the “woman with a past” plot popular in melodramas, Pinero turned it to a more serious direction, centering the play around the social consequences arising when Aubrey Tanqueray remarries in an attempt to redeem a woman with a questionable past.&lt;/p&gt;
-			&lt;p&gt;The play’s structure is based on the principles of the “well-made play” popular throughout the 19-century. But just as Wilde manipulated the conventions of the “well-made play” to produce a new form of comedy, so did Arthur Pinero use it, forgoing the happy ending, to produce an elevated form of tragedy.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Second Mrs. Tanqueray&lt;/i&gt; was first performed in 1893, at the &lt;abbr&gt;St.&lt;/abbr&gt; James Theatre, London at a time when England was still resisting the growing movement in Europe towards realism and the portrayal of real social problems and human misconduct. But while it was regarded as shocking, it ran well and made a substantial profit. Theatre historian &lt;abbr class="name"&gt;J. P.&lt;/abbr&gt; Wearing phrased it thus, “although not as avant-garde as Ibsen’s plays, Tanqueray confronted its fashionable &lt;abbr&gt;St.&lt;/abbr&gt; James’s audiences with as forceful a social message as they could stomach.”&lt;/p&gt;
+			&lt;p&gt;Arthur Pinero wrote &lt;i&gt;The Second Mrs. Tanqueray&lt;/i&gt; in 1893 after penning several successful farces. Playing on the “woman with a past” plot that was popular in melodramas, Pinero steered it in a more serious direction, centering the play around the social consequences arising when Aubrey Tanqueray remarries in an attempt to redeem a woman with a questionable past.&lt;/p&gt;
+			&lt;p&gt;The play’s structure is based on the principles of the “well-made play” popular throughout the 19-century. But just as Wilde manipulated the conventions of the “well-made play” to produce a new form of comedy, so did Arthur Pinero manipulate it, forgoing the happy ending to produce an elevated form of tragedy.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Second Mrs. Tanqueray&lt;/i&gt; was first performed in 1893, at the St. James Theatre, London, at a time when England was still resisting the growing movement in Europe towards realism and the portrayal of real social problems and human misconduct. But while it was regarded as shocking, it ran well and made a substantial profit. Theatre historian J. P. Wearing phrased it thus: “although not as avant-garde as Ibsen’s plays, Tanqueray confronted its fashionable St. James’s audiences with as forceful a social message as they could stomach.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/40736</dc:source>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">24827</meta>
+		<meta property="se:reading-ease.flesch">78.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Second_Mrs._Tanqueray</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-w-pinero_the-second-mrs-tanqueray</meta>
 		<dc:creator id="author">Arthur W. Pinero</dc:creator>
@@ -72,7 +72,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henri_Fantin-Latour</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82025255</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">K Nordquist</dc:contributor>
+		<dc:contributor id="transcriber-1">K. Nordquist</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Nordquist, K.</meta>
 		<dc:contributor id="transcriber-2">JoAnn Greenwood</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Greenwood, JoAnn</meta>
@@ -88,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
