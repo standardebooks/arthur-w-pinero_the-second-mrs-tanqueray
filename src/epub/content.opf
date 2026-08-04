@@ -55,7 +55,7 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.</dc:abstract>
+		<meta property="schema:abstract">A gentleman remarries a woman of questionable character and tries to redeem her, but her past revisits the family in unexpected and tragic ways.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/arthur-w-pinero"&gt;Arthur Pinero&lt;/a&gt; wrote &lt;i&gt;The Second Mrs. Tanqueray&lt;/i&gt; in 1893 after penning several successful farces. Playing on the “woman with a past” plot that was popular in melodramas, Pinero steered it in a more serious direction, centering the play around the social consequences arising when Aubrey Tanqueray remarries in an attempt to redeem a woman with a questionable past.&lt;/p&gt;
 			&lt;p&gt;The play’s structure is based on the principles of the “well-made play” popular throughout the 19th-century. But just as Wilde manipulated the conventions of the “well-made play” to produce a new form of comedy, so did Arthur Pinero manipulate it, forgoing the happy ending to produce an elevated form of tragedy.&lt;/p&gt;
