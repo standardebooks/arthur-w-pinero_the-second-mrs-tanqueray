@@ -78,18 +78,20 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Henri Fantin-Latour</dc:contributor>
 		<meta property="file-as" refines="#artist">Fantin-Latour, Henri</meta>
+		<meta property="schema:alternateName" refines="#artist">Ignace Henri Jean Théodore Fantin-Latour</meta>
 		<link href="https://en.wikipedia.org/wiki/Henri_Fantin-Latour" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82025255.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">K. Nordquist</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Nordquist, K.</meta>
+		<meta property="file-as" refines="#transcriber-1">Nordquist, K.</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">JoAnn Greenwood</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Greenwood, JoAnn</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<meta property="file-as" refines="#transcriber-3">Greenwood, JoAnn</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
 		<link href="https://astart.ca/" refines="#producer-1" rel="schema:url"/>
